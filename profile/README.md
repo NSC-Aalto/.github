@@ -30,7 +30,6 @@ We are actively looking for motivated **PhD and Postdoc candidates** with a stro
 Join us and work as a part of the [Finnish Center for Artificial Intelligence (FCAI)](https://fcai.fi/).
 
 **Application Information (Deadline: Feb 02, 2025):** [Click here for details](https://fcai.fi/winter-2025-researcher-positions-in-ai-and-machine-learning)
-*(Note: Link points to the original page as the specific application URL was not provided)*
 
 ## Contact
 
