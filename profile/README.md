@@ -1,4 +1,4 @@
-# Nonlinear Systems and Control (aalto-nsc)
+# Nonlinear Systems and Control
 
 Welcome to the official GitHub organization for the **Nonlinear Systems and Control group** at the **Department of Electrical Engineering and Automation, Aalto University**.
 
